@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2rem;
+}
+
+header{
+    background-color:rgb(162, 17, 230);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+main{
+    display: flex;
+}
+
+#caixa{
+    border: solid;
+    color:darkviolet;
+    
+}
+
+#cs{
+    width: 26rem;
+    margin: 5rem;
+}
+
+#texto{
+    
+    border: 0.7rem solid blueviolet;
+    margin: 3.5rem;
+    height: 29rem;
+    width: 47rem;
+    border-radius: 7rem;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    color:black;
+    text-align: justify;
+    font-size: 1rem;
+}
+
+html, body{
+
+    background-color:azure;
+}
